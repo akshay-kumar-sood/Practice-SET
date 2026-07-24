@@ -1,3 +1,3 @@
 # [ dev branch ]
 
-# daily practise-Set problem come under this branch
+# daily practise-Set problems come under this branch
